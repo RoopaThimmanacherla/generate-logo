@@ -40,7 +40,7 @@ function init() {
     .then((answers) => {
       const logoFile = createLogo(answers);
 
-      fs.writeFile("logo.svg", logoFile, () =>
+      fs.writeFile("./Examples/logo.svg", logoFile, () =>
         console.log("SVG logo hasbeen generated!")
       );
     })
