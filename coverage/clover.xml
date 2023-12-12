@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1702329608139" clover="3.2.0">
+  <project timestamp="1702329608139" name="All files">
+    <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7" elements="23" coveredelements="23" complexity="0" loc="16" ncloc="16" packages="1" files="4" classes="4"/>
+    <file name="circle.js" path="C:\Users\Roopa Thimmanacherla\OneDrive\Desktop\Bootcamp\logo-generator\lib\circle.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+    <file name="shapes.js" path="C:\Users\Roopa Thimmanacherla\OneDrive\Desktop\Bootcamp\logo-generator\lib\shapes.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+    </file>
+    <file name="square.js" path="C:\Users\Roopa Thimmanacherla\OneDrive\Desktop\Bootcamp\logo-generator\lib\square.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+    <file name="triangle.js" path="C:\Users\Roopa Thimmanacherla\OneDrive\Desktop\Bootcamp\logo-generator\lib\triangle.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
